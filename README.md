@@ -1,2 +1,2 @@
-# SecondProject2
-Learning Git and GitHub
+# Second Project 2
+Learning Git and GitHub. Retry.
